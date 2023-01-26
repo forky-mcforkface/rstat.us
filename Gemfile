@@ -12,7 +12,7 @@ group :assets do
   gem 'compass-rails',          "~> 1.0.3"
   gem 'coffee-rails',           "~> 3.2.2"
   gem 'uglifier',               "~> 1.0.0"
-  gem 'jquery-ui-rails',        "~> 2.0.0"
+  gem 'jquery-ui-rails',        "~> 6.0.1"
   gem "therubyracer",           "~> 0.12.1"
 end
 
